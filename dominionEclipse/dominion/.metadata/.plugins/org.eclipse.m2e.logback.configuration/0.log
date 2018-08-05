@@ -1,0 +1,11 @@
+2017-02-20 20:10:09,183 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-02-20 20:42:14,374 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-02-20 20:44:50,268 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cs362:dominionMaven:0.0.1-SNAPSHOT @ Z:\cs362\dominionEclipse\dominionMaven\pom.xml.
+2017-02-20 20:45:06,884 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 20:45:06,918 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\cs362\dominionEclipse\dominionMaven\src\main\resources
+2017-02-20 20:45:06,932 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 20:45:06,961 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\cs362\dominionEclipse\dominionMaven\src\test\resources
+2017-02-20 20:45:22,518 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 20:45:22,545 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\cs362\dominionEclipse\dominionMaven\src\main\resources
+2017-02-20 20:45:22,557 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 20:45:22,587 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\cs362\dominionEclipse\dominionMaven\src\test\resources

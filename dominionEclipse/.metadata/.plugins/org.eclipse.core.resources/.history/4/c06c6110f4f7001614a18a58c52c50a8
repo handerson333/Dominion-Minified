@@ -1,0 +1,25 @@
+package cs362.dominionMaven;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
+import junit.framework.TestCase;
+
+public class LabratoryTest extends TestCase {
+
+	
+	public static List<Card> cards ;
+	@Test
+	public void test() {
+		int action = 1;
+		int buys = 1;
+		int coins = 0;
+		Card chapel = Card.getCard(cards, Card.CardName.chapel);
+		assertEquals(0, action);
+		assertEquals(0, buys);
+		assertEquals(0, coins);
+	}
+
+	
+}

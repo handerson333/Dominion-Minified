@@ -1,0 +1,7 @@
+package dominion.maven;
+
+import junit.framework.TestCase;
+
+public class SmithyTest extends TestCase {
+
+}
